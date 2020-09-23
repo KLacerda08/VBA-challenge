@@ -8,4 +8,13 @@ Stock tickers were evaluated to find the following:
   - Total Stock Volume traded for that ticker for the year.
 
 Yearly Percent Changes were highlighted as follows: red for negative yearly percent change; green for positive yearly percent change.
-No highlighting was applied for zero percent change.    
+No highlighting was applied for zero percent change.   
+
+Select results of the analysis are presented as image snips of the first page of results for each year, with filenames: 
+StockMarketResults_2014.png
+StockMarketResults_2015.png
+StockMarketResults_2015.png
+
+The VBA code has been presented in two file formats: 
+Module1.bas
+Module1_Stock_Market_Analysis.txt 
