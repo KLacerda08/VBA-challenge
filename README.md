@@ -23,3 +23,7 @@ The VBA code has been presented in two file formats:
 Module1.bas
 
 Module1_Stock_Market_Analysis.txt 
+
+Update: 9/23/2020 added vbs file for vba script, filename below:
+
+Module1_Stock_Market_Analysis.txt 
